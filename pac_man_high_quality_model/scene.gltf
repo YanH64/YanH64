@@ -1,0 +1,457 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4703,
+      "max": [
+        0.99850916862487793,
+        2.0137321949005127,
+        0.99884021282196045
+      ],
+      "min": [
+        -0.99896061420440674,
+        0.015234947204589844,
+        -0.87457859516143799
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 56436,
+      "componentType": 5126,
+      "count": 4703,
+      "max": [
+        0.99981141090393066,
+        0.99985456466674805,
+        0.99971902370452881
+      ],
+      "min": [
+        -0.99991631507873535,
+        -0.99994325637817383,
+        -0.99983668327331543
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 34962,
+      "max": [
+        4702
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 112872,
+      "componentType": 5126,
+      "count": 9297,
+      "max": [
+        0.90098118782043457,
+        1.9191462993621826,
+        0.036498084664344788
+      ],
+      "min": [
+        -0.90226787328720093,
+        0.35741406679153442,
+        -0.77085047960281372
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 224436,
+      "componentType": 5126,
+      "count": 9297,
+      "max": [
+        0.99712449312210083,
+        0.99745023250579834,
+        0.99595373868942261
+      ],
+      "min": [
+        -0.99712449312210083,
+        -0.99971592426300049,
+        -0.99999630451202393
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 139848,
+      "componentType": 5125,
+      "count": 55650,
+      "max": [
+        9296
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 721,
+      "max": [
+        15
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 721,
+      "max": [
+        8.1460335366045911e-08,
+        1,
+        7.0546704478147149e-08,
+        1
+      ],
+      "min": [
+        -4.0730167683022955e-08,
+        -0.86602520942687988,
+        -8.1460335366045911e-08,
+        -0.5
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2884,
+      "componentType": 5126,
+      "count": 721,
+      "max": [
+        15
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 11536,
+      "componentType": 5126,
+      "count": 721,
+      "max": [
+        0.39775675535202026,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        8.1460335366045911e-08,
+        0,
+        0,
+        0.91749089956283569
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 5768,
+      "componentType": 5126,
+      "count": 721,
+      "max": [
+        15
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 23072,
+      "componentType": 5126,
+      "count": 721,
+      "max": [
+        8.1460335366045911e-08,
+        0,
+        0,
+        1
+      ],
+      "min": [
+        -0.24442726373672485,
+        0,
+        0,
+        0.96966761350631714
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Pac man.002|EmptyAction",
+      "samplers": [
+        {
+          "input": 6,
+          "interpolation": "LINEAR",
+          "output": 7
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Pac man.002|Pac man.002Action",
+      "samplers": [
+        {
+          "input": 8,
+          "interpolation": "LINEAR",
+          "output": 9
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 5,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Pac man.002|Pac man.003Action",
+      "samplers": [
+        {
+          "input": 10,
+          "interpolation": "LINEAR",
+          "output": 11
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "FranciscoDugarte (https://sketchfab.com/FranciscoDugarte)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pac-man-high-quality-model-23e3f7a187b14ba287500fd75bcc3fcc",
+      "title": "Pac Man High Quality Model"
+    },
+    "generator": "Sketchfab-9.64.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 362448,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336000,
+      "byteOffset": 362448,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8652,
+      "byteOffset": 698448,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 34608,
+      "byteOffset": 707100,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 741708,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1,
+        1,
+        0
+      ],
+      "name": "Pacman",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.86802637692542384,
+          0,
+          1
+        ],
+        "metallicFactor": 0.59135762361214361,
+        "roughnessFactor": 0.37198186950798895
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Negro",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.0039359399999999998,
+          0.0039359399999999998,
+          0.0039359399999999998,
+          1
+        ],
+        "metallicFactor": 0.67057664592753286,
+        "roughnessFactor": 0.097762176877795509
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Pac man.002_Pacman_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Pac man.002_Negro_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "3051ab8778934d349e59c3380f625953.fbx"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": ""
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        6,
+        7
+      ],
+      "name": "Pac man.002",
+      "rotation": [
+        8.1460335366045911e-08,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "mesh": 0,
+      "name": "Pac man.002_Pacman_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Pac man.002_Negro_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
+
